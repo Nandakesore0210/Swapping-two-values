@@ -18,7 +18,7 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-``
+```
 '''Swapping of two values
 Developed By: Nandakesore J
 Register Number: 212223240103
@@ -29,7 +29,7 @@ Temp=Value1
 Value1=Value2
 Value2=Temp
 print("Swapped values are: {} {}".format(Value1,Value2))
-``
+```
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
