@@ -35,7 +35,8 @@ print("Swapped values are: {} {}".format(Value1,Value2))
 
 ## Output:
 
-![alt text](image.png)
+![image](https://github.com/Nandakesore0210/Swapping-two-values/assets/149365088/188bcf7b-c0ff-4bdc-b935-d1fae1ea53c4)
+
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
